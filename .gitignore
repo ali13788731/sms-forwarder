@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# کلید امضا و رمزها هرگز در مخزن قرار نگیرد
+keystore.properties
+*.jks
+*.keystore
